@@ -1,5 +1,9 @@
-.appeal{
-    text-align: center;
-    font-size: 25px;
-    color: #092b53;
+.appeal {
+  text-align: center;
+  font-size: 25px;
+  color: #092b53;
+}
+* {
+  box-sizing: border-box;
+  background-color: #00ffff;
 }
