@@ -7,3 +7,19 @@
   box-sizing: border-box;
   background-color: #a00fff;
 }
+.head {
+  width: 100%;
+}
+.container {
+  margin: 0 auto;
+  width: 1140px;
+  border: 1px solid red;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.list_item {
+  list-style: none;
+}
