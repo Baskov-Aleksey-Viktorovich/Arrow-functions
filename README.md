@@ -1,1 +1,1 @@
-# Hello my name Alex im learning front end dew this test repository for test my git skill
+# Hello my name Alex im learning front end devs this test repository for test my git skill
